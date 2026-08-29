@@ -1,1 +1,1 @@
-# Credit-Risk-Analysis
+# Credit-Risk-Modeling
